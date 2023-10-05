@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Lato:wght@300&family=Poppins:wght@200;300&family=Sunflower:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: black;
+  
+}
